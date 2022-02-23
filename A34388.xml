@@ -1,0 +1,702 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Carmen natalitium to His Highness the Duke of Glocester, an heroick poem.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34388</idno>
+            <idno type="STC">Wing C597A</idno>
+            <idno type="STC">ESTC R26580</idno>
+            <idno type="EEBO-CITATION">09506012</idno>
+            <idno type="OCLC">ocm 09506012</idno>
+            <idno type="VID">43344</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34388)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43344)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1326:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Carmen natalitium to His Highness the Duke of Glocester, an heroick poem.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43344:1"/>
+            <pb facs="tcp:43344:1" rendition="simple:additions"/>
+            <p>
+               <hi>CARMEN NATALITIUM.</hi>
+            </p>
+            <p>TO HIS HIGHNESS THE Duke of Gloceſter. AN HEROICK POEM.</p>
+            <q>
+               <l>Tu modo naſcenti Puero, quo ferrea primum</l>
+               <l>Deſinet, ac toto ſurget gens aurea mundo,</l>
+               <l>Caſta, fave, Lucina—</l>
+               <bibl>Virg.</bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>A. Baldwin</hi> in <hi>Warwick-lane,</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:43344:2"/>
+            <pb n="3" facs="tcp:43344:2"/>
+            <head>TO HIS HIGHNESS THE Duke of Gloceſter.</head>
+            <lg>
+               <l>
+                  <hi>URANIA,</hi> Faireſt of the <hi>Sacred Nine,</hi>
+               </l>
+               <l>Let this Bleſt MORN wake thy whole <hi>Choir Divine;</hi>
+               </l>
+               <l>A <hi>Subject</hi> ſo ſublime, enough t'inſpire,</l>
+               <l>And ſingly tune the whole <hi>Phaebaean Lyre:</hi>
+               </l>
+               <l>Not the <hi>Wing'd Courſer,</hi> when he ſtruck your <hi>Fount,</hi>
+               </l>
+               <l>To more <hi>Exalted Heights</hi> could ever mount.</l>
+               <l>A <hi>Theme,</hi> to Warm the very <hi>God of Day,</hi>
+               </l>
+               <l>And Brighten ev'n th' <hi>Apollinary Ray.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Yes, GLORY, GLORY, Thou'rt the Mighty Theme,</l>
+               <l>GLORY, of <hi>Heav'n</hi> the Richeſt Borrow'd <hi>Beam.</hi>
+               </l>
+               <l>But e'er the Sallies of the <hi>Muſe</hi> eſſay</l>
+               <l>To circuit thy <hi>
+                     <g ref="char:V">Ʋ</g>nbounded Empire</hi>'s Sway;</l>
+               <l>Let me invoke a <hi>Pow'r,</hi> that beſt can ſtretch</l>
+               <l>His <hi>Heav'nly View</hi> to that Expanded Reach.</l>
+            </lg>
+            <pb n="4" facs="tcp:43344:3"/>
+            <lg>
+               <l>Thou <hi>Twin-fac'd God,</hi> who op'ſt thy <hi>Temple</hi> Doors,</l>
+               <l>When the Sky lours, and <hi>War</hi>'s rough Tempeſt roars;</l>
+               <l>Where th' Arm'd <hi>Deſtroyers,</hi> in their bending Steel,</l>
+               <l>With their uplifted pondrous Gauntlets, kneel.</l>
+               <l>But when the <hi>Bloody Flag</hi> hangs out no more;</l>
+               <l>No <hi>Halcyon Choirs</hi> do in Thy Walls adore.</l>
+               <l>Thy <hi>Gates</hi> are all ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r'd up<g ref="char:punc">▪</g> No fragrant Air</l>
+               <l>Of <hi>Roſy Sweets;</hi> thy Shrines no <hi>Garlands</hi> wear:</l>
+               <l>Flutes, Timbrels, Songs of <hi>Peace,</hi> are baniſh'd there.</l>
+               <l>Great <hi>JAN<g ref="char:V">Ʋ</g>S,</hi> thou whoſe <hi>Double Front</hi> looks o'er</l>
+               <l>Whole <hi>Ages;</hi> all <hi>Behind</hi> thee, and <hi>Before:</hi>
+               </l>
+               <l>TIME's great <hi>Surveyor,</hi> thou whoſe <hi>Proſpects</hi> ſpread</l>
+               <l>Thro' that vaſt <hi>Airy</hi> Wild, <hi>Th' <g ref="char:V">Ʋ</g>nborn and Dead.</hi>
+               </l>
+               <l>
+                  <hi>Airy</hi> indeed, when we can only call</l>
+               <l>The <hi>Preſent</hi> Ours, and <hi>Moments</hi> are our All.</l>
+               <l>Beyond the narrow <hi>Now,</hi> thou wander'ſt o'er</l>
+               <l>Either what <hi>Is not yet,</hi> or <hi>Is no more.</hi>
+               </l>
+               <l>Hard-doom'd <hi>Mortality,</hi> if this be all</l>
+               <l>Thy boaſted Footing on the <hi>Mighty Ball.</hi>
+               </l>
+               <l>If, MAN, thy <hi>Fabrick</hi> on this <hi>Baſis</hi> ſtands,</l>
+               <l>And this <hi>ſhort Graſp</hi> is all thy <hi>Pow'r</hi> commands;</l>
+               <l>Oh thou poor <hi>Lord of Worlds,</hi> this <hi>Frame Divine</hi>
+               </l>
+               <l>All built for <hi>Thee,</hi> and yet ſo <hi>Little</hi> Thine!</l>
+            </lg>
+            <lg>
+               <l>So Little? No: Thou'ſt <hi>All.</hi> Add the Great SOUL.</l>
+               <l>To th' <hi>Human Span,</hi> and then outreach the <hi>Pole.</hi>
+               </l>
+               <l>Then the <hi>true</hi> Lord of Worlds, th' <hi>Heroick Mind</hi>
+               </l>
+               <l>Builds <hi>Thrones</hi> ſo Laſting, <hi>reigns</hi> ſo Unconfin'd:</l>
+               <l>Though ſhort our <hi>Glaſs</hi> and <hi>number'd</hi> Minutes told;</l>
+               <l>The <hi>Sands</hi> of FAME run <hi>Inexhauſted</hi> GOLD.</l>
+            </lg>
+            <pb n="5" facs="tcp:43344:3"/>
+            <lg>
+               <l>True GLORY never ſleeps in <hi>Beds of Clay:</hi>
+               </l>
+               <l>Her Flow'ry Garlands ever <hi>freſh</hi> and <hi>gay,</hi>
+               </l>
+               <l>While <hi>Ages</hi> make but one long <hi>Coronation-Day.</hi>
+               </l>
+               <l>For Boundleſs GLORY the vaſt <hi>Round</hi> wants Room:</l>
+               <l>She fills the whole Great Three, <hi>Past, Preſent,</hi> and <hi>to Come.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If GLORY then, <hi>
+                     <g ref="char:V">Ʋ</g>rania,</hi> plumes thy Wing;</l>
+               <l>And thy <hi>Exalted Airs</hi> muſt <hi>GLOC'STER</hi> ſing;</l>
+               <l>Take the fair Proſpect of his <hi>Beauteous MORN,</hi>
+               </l>
+               <l>The <hi>Infant Glories</hi> which that BROW adorn.</l>
+               <l>And where the <hi>Phoſphor</hi> does ſuch <hi>Light</hi> diſplay;</l>
+               <l>Leave the <hi>World</hi> Judge of the <hi>Meridian Day.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When <hi>Albion</hi>'s SUN <hi>Ecclips'd,</hi> Great <hi>NASSA<g ref="char:V">Ʋ</g>
+                  </hi> rod,</l>
+               <l>With <hi>Drums</hi> and <hi>Trumpets</hi> Sounds, to aid the <hi>Labouring God;</hi>
+               </l>
+               <l>Did <hi>Light</hi> from her Invading <hi>Shades</hi> reſtore;</l>
+               <l>And bid our <hi>Laws</hi> and <hi>Altars</hi> ſhine once more:</l>
+               <l>'Twas here the Great IMMORTAL, to ſurvey</l>
+               <l>The glorious <hi>Toyl</hi> of that <hi>propitious Day,</hi>
+               </l>
+               <l>As at his own Great <hi>Six Days Labour</hi> ſtood;</l>
+               <l>
+                  <hi>He view'd the Finiſh'd Work, and ſaw 'twas Good.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But can Great <hi>NASSA<g ref="char:V">Ʋ</g>
+                  </hi> finiſh all? Ah no.</l>
+               <l>Can <hi>ſingle</hi> Hands thro' <hi>Endleſs</hi> Labours go?</l>
+               <l>To raiſe <hi>Immortal Structures</hi> to their Height,</l>
+               <l>The <hi>Founder</hi> does but <hi>half</hi> the Work of Fate.</l>
+               <l>T' <hi>uphold</hi> the Pile He <hi>rais'd,</hi> Deſigns ſo Great,</l>
+               <l>A <hi>Line</hi> of WORTHIES only can compleat.</l>
+               <l>That Work, THOU, <hi>then <g ref="char:V">Ʋ</g>nborn,</hi> Thy Stars decree:</l>
+               <l>Th' <hi>Almighty Conſult</hi> ſate, and call'd forth THEE.</l>
+            </lg>
+            <pb n="6" facs="tcp:43344:4"/>
+            <lg>
+               <l>Born for theſe <hi>Ends,</hi> the <hi>Scheme</hi> of Fate thus laid;</l>
+               <l>When <hi>Thee</hi> the HERO His <hi>Adoption</hi> made,</l>
+               <l>At the Great FONT <hi>He promis'd in Thy Name,</hi>
+               </l>
+               <l>Not half the <hi>Wonders</hi> of Thy Race of <hi>Fame;</hi>
+               </l>
+               <l>Far ſhort of what th' All-knowing <hi>Pow'rs</hi> foreſee,</l>
+               <l>In the Great <hi>Cauſe</hi> of <hi>Heav'n</hi>'s reſerv'd for Thee.</l>
+            </lg>
+            <lg>
+               <l>Whilſt for this <hi>Fruit,</hi> this STEM of <hi>Britain</hi> ſprings,</l>
+               <l>The <hi>Veins</hi> of HERO's, and the <hi>Seed</hi> of KINGS;</l>
+               <l>To raiſe this BIRTH, to Divine <hi>Pallas</hi> Charge</l>
+               <l>His <hi>Guardian Pow'rs</hi> aſſign a Truſt ſo large.</l>
+               <l>Glitt'ring in <hi>Arms</hi> her <hi>Nurſing Hand</hi> ſhe brings,</l>
+               <l>Whilſt ev'n the <hi>Gauntlet,</hi> holds the <hi>Leading-ſtrings.</hi>
+               </l>
+               <l>Bright <hi>Armour,</hi> here, her <hi>Nurſeries</hi> Delight;</l>
+               <l>Her <hi>Gorgon</hi> and <hi>Meduſa</hi> Charm, not Fright.</l>
+               <l>T'her <hi>Cradle-Care</hi> the Martial <hi>Goddeſs</hi> comes,</l>
+               <l>And only Lulls Him with her <hi>Steel</hi> and <hi>Plumes.</hi>
+               </l>
+               <l>No fond <hi>Lucina</hi>'s Song, no tinkling Toy;</l>
+               <l>The Muſick of the WAR muſt Rock the BOY;</l>
+               <l>Not to His Sleep, but to His waking Joy.</l>
+               <l>
+                  <hi>MARS</hi> ev'n in <hi>Miniature</hi> His <hi>Soul</hi> inſpires:</l>
+               <l>He feels a <hi>Heat,</hi> tho' but from <hi>Lambent Fires.</hi>
+               </l>
+               <l>Ev'n when ſo Young, e'er th' <hi>Intellectual Light</hi>
+               </l>
+               <l>Could furniſh <hi>Reaſon</hi> for th' <hi>Heroick Flight;</hi>
+               </l>
+               <l>Long e'er ſlow <hi>Nature</hi> to thoſe <hi>Heights</hi> could riſe;</l>
+               <l>
+                  <hi>Viſions</hi> of GLORY play'd before His Eyes.</l>
+               <l>So Early warm'd with what ſo Brightly ſhin'd,</l>
+               <l>With that <hi>Career</hi> his <hi>active Genius</hi> ran;</l>
+               <l>That leaping o'er an <hi>Age</hi> He left behind,</l>
+               <l>He Slept, the INFANT; but He Dreamt, the MAN.</l>
+            </lg>
+            <pb n="7" facs="tcp:43344:4"/>
+            <lg>
+               <l>HERO's, like <hi>Poets,</hi> are not <hi>made,</hi> but <hi>Born;</hi>
+               </l>
+               <l>Valour's true Heat warms ev'n their <hi>Dawning Morn.</hi>
+               </l>
+               <l>Thus young <hi>Alcides,</hi> when his <hi>Hiſſing Foes,</hi>
+               </l>
+               <l>With their <hi>fork'd</hi> Vengeance to his <hi>Cradle</hi> roſe,</l>
+               <l>His firſt Immortal Infant Sally makes,</l>
+               <l>Undaunted he attacks the <hi>creſted Snakes;</hi>
+               </l>
+               <l>Graſps their cruſht Throats in his <hi>Victorious Hands;</hi>
+               </l>
+               <l>And crowns the <hi>Conqu'ror</hi> in his <hi>Swathing Bands.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>All the ſame <hi>Animating Spirit</hi> here,</l>
+               <l>The ſame the <hi>Courage;</hi> not the <hi>Danger</hi> near:</l>
+               <l>No; Thou Great Heir of Smiles, All Born for <hi>Joy,</hi>
+               </l>
+               <l>No <hi>Juno</hi>'s Spight would theſe <hi>young Hopes</hi> deſtroy.</l>
+            </lg>
+            <lg>
+               <l>Nor wonder that this Godlike GENIUS reigns,</l>
+               <l>When 'tis no more than what Thou <hi>ow'st</hi> thy VEINS;</l>
+               <l>Born from that SIRE, whoſe <hi>Patriot Arm</hi> once held</l>
+               <l>His COUNTRY's ſharpeſt <hi>Sword</hi> and tougheſt <hi>Shield.</hi>
+               </l>
+               <l>No Hand more Daring for the <hi>Lawrel</hi> puſht:</l>
+               <l>In <hi>Fields of Blood</hi> his very <hi>Nonage</hi> fluſht.</l>
+               <l>His Early <hi>Leading</hi> VALOUR fixt in Fame,</l>
+               <l>Whilſt <hi>Lunden</hi> and <hi>Landſcroon</hi> ſhall have a Name.</l>
+               <l>'Twas thus He ſet out in the <hi>Martial Race;</hi>
+               </l>
+               <l>'Till his calm <hi>Bow'rs</hi> of BLISS ended the <hi>Chace.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>A <hi>Plant</hi> of GLORY in ſo Rich a <hi>Bed,</hi>
+               </l>
+               <l>By ſuch <hi>Hereditary</hi> Nurture fed,</l>
+               <l>When <hi>Princely Stems</hi> ſuch forward <hi>Bloſſoms</hi> bring;</l>
+               <l>From ſuch kind <hi>Suns</hi> ne'er wonder at the <hi>Spring.</hi>
+               </l>
+               <pb n="8" facs="tcp:43344:5"/>
+               <l>Nay for yet more kind <hi>cheering Beams,</hi> to ſhoot</l>
+               <l>The early ſpreading <hi>Bloom</hi> from ſuch a ROOT:</l>
+               <l>Thou Royal Nurſery in <hi>Arts</hi> and <hi>Arms,</hi>
+               </l>
+               <l>Thy Darling <hi>Pallas</hi> in her Double Charms;</l>
+               <l>To cultivate ſo all Divine a Soil,</l>
+               <l>Here both the <hi>Mars</hi> and the <hi>Apollo</hi> ſmile:</l>
+               <l>Led by ſuch <hi>Aiding Pow'rs,</hi> when on each Hand</l>
+               <l>Th' Inſtructing <hi>Hero</hi> and Learn'd <hi>Prelate</hi> ſtand;</l>
+               <l>Well may thy Youth take that <hi>Pellaean Flight,</hi>
+               </l>
+               <l>Betwixt the <hi>Clytus</hi> and the <hi>Stagyrite.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But if the <hi>Martial Bolts</hi> ſo early Charm,</l>
+               <l>And ev'n thy <hi>Cretan Cradle</hi> glows ſo warm:</l>
+               <l>When <hi>full-blown</hi> GLORY thy <hi>Crown'd Head</hi> ſhall ſee;</l>
+               <l>Then, when ſome <hi>mighty Cauſe,</hi> all worthy <hi>Thee;</hi>
+               </l>
+               <l>What if the Enſlav'd <hi>Chriſtendom</hi> once more,</l>
+               <l>Thee our <hi>ſucceeding JOVE</hi>'s kind <hi>Aid</hi> implore;</l>
+               <l>Her Groans all ecchoing to Thy <hi>Albion</hi> Walls,</l>
+               <l>Whilſt the Chain'd <hi>Virgin</hi> the Wing'd <hi>Perſeus</hi> calls;</l>
+               <l>With thy Great FATHER then thy <hi>Veins</hi> inſpir'd,</l>
+               <l>With the whole <hi>Tranſmigrated NASSA<g ref="char:V">Ʋ</g>
+                  </hi> fir'd;</l>
+               <l>With thoſe united <hi>Native Genii</hi> fill'd,</l>
+               <l>And all that <hi>Immortality</hi> can build;</l>
+               <l>To ſend Thee Forth in HONOUR's Nobleſt Race,</l>
+               <l>Some Tyrant <hi>Hunter of the World</hi> to chace;</l>
+               <l>With <hi>Keener Thunder</hi> from a Forge more <hi>warm,</hi>
+               </l>
+               <l>The ſweating <hi>Cyclops</hi> muſt ſupply that ARM.</l>
+            </lg>
+            <lg>
+               <l>But is't <hi>Heroick Virtue</hi> only reigns</l>
+               <l>The Great <hi>Deſcendant</hi> in Young <hi>GLOC'STER</hi>'s Veins?</l>
+               <pb n="9" facs="tcp:43344:5"/>
+               <l>No; 'tis not only One bright JEM Divine</l>
+               <l>Makes the whole <hi>Orient Treaſure</hi> from that MINE.</l>
+               <l>If Nature's <hi>Stamps</hi> are <hi>Copies</hi> of the Kind;</l>
+               <l>If <hi>Founts</hi> make <hi>Streams;</hi> and SOULS their <hi>Channels</hi> find:</l>
+               <l>If SONS can their <hi>Paternal VIRT<g ref="char:V">Ʋ</g>ES</hi> Heir,</l>
+               <l>What muſt the BIRTH produce from ſuch a PAIR?</l>
+            </lg>
+            <lg>
+               <l>No <hi>Wand'rer</hi> of the Skies; here the <hi>Fixt JOVE,</hi>
+               </l>
+               <l>Unwiſhing and Untaught to <hi>Range</hi> or <hi>Rove,</hi>
+               </l>
+               <l>
+                  <hi>One</hi> Boundleſs <hi>Joy</hi> his <hi>LOVE</hi>'s whole <hi>Heav'n</hi> ſupplies;</l>
+               <l>Melts his <hi>Eternal Day</hi> in <hi>J<g ref="char:V">Ʋ</g>NO</hi>'s Eyes.</l>
+               <l>Such <hi>Love, Faith, Honour,</hi> in one <hi>Chaplet</hi> twin'd;</l>
+               <l>For ever <hi>Verdant,</hi> all true <hi>Lawrel</hi>-kind:</l>
+               <l>How had <hi>Crowns</hi> been Ador'd, and <hi>Kingdoms</hi> Bleſt,</l>
+               <l>Had Thy Fair <hi>SO<g ref="char:V">Ʋ</g>L</hi> fill'd every <hi>Royal Breast!</hi>
+               </l>
+               <l>Their <hi>Leading Lights</hi> but with Thy <hi>Luſtre</hi> ſhone,</l>
+               <l>To ſet the World ſuch COPIES from a Throne!</l>
+            </lg>
+            <lg>
+               <l>Look back, Great <hi>Janus,</hi> with a glowing Face;</l>
+               <l>Thy own all Scarlet, tell th' unbluſhing Race,</l>
+               <l>Had ſuch <hi>Exampl'd Virtues</hi> rul'd the Day;</l>
+               <l>
+                  <hi>Nature</hi> her bright <hi>Original</hi> might boaſt:</l>
+               <l>Her <hi>Golden Age,</hi> without one courſe Allay,</l>
+               <l>The <hi>
+                     <g ref="char:V">Ʋ</g>ndegenerate</hi> World had never loſt.</l>
+               <l>Yes, Radiant VIRTUE, where Thy <hi>Influence,</hi>
+               </l>
+               <l>Thy pow'rful <hi>Aſpect</hi> does its Smiles diſpenſe,</l>
+               <l>It is not <hi>Worlds</hi> alone thy Bleſſings ſhare:</l>
+               <l>What can't Thy <hi>Reign!</hi> The Great DISPENSER there</l>
+               <l>That vaſt <hi>Dominion</hi> to thy Hand has giv'n,</l>
+               <l>At once to <hi>bleſs</hi> the <hi>Earth,</hi> and <hi>people Heav'n.</hi>
+               </l>
+            </lg>
+            <pb n="10" facs="tcp:43344:6"/>
+            <lg>
+               <l>Great <hi>DENMARK,</hi> thus, in Thy Bright <hi>Orb</hi> of <hi>LOVE,</hi>
+               </l>
+               <l>Where all theſe <hi>Conſtellated Graces</hi> move;</l>
+               <l>Their <hi>ſpreading Beams</hi> around whole <hi>Ages</hi> caſt,</l>
+               <l>T' adorn the <hi>Preſent,</hi> and to ſhame the <hi>Last.</hi>
+               </l>
+               <l>Be it Thy Pride (oh whither can I raiſe</l>
+               <l>My ſoaring <hi>Muſe</hi> to ſuch Seraphick Praiſe!)</l>
+               <l>Had all Bleſt <hi>Nuptials</hi> ſuch a <hi>Bridegroom Lord;</hi>
+               </l>
+               <l>And ev'ry <hi>Hymen</hi> worn thy <hi>ſtainleſs Robe:</hi>
+               </l>
+               <l>The unavenging GOD had never pour'd</l>
+               <l>His <hi>Deluge</hi> down to waſh the <hi>Spotted Globe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Now change, <hi>
+                     <g ref="char:V">Ʋ</g>rania,</hi> to new <hi>Glitt'ring Scenes;</hi>
+               </l>
+               <l>And tune thy Airs to <hi>GLOC' STER</hi>'s <hi>Britiſh</hi> Veins.</l>
+               <l>Drive, drive around that bright <hi>Imperial Sphere:</hi>
+               </l>
+               <l>And trace Him from his SOURCE of GLORY here.</l>
+               <l>Here, when the <hi>Dazling Heights</hi> thy Eye ſhall ſee,</l>
+               <l>Exert thy high-tun'd <hi>Voice,</hi> but low'r thy <hi>Knee.</hi>
+               </l>
+               <l>At thy Approach, with Duteous <hi>Homage</hi> bow.</l>
+               <l>Here view Bright EXCELLENCE, that <hi>Awful</hi> BROW,</l>
+               <l>Belov'd <hi>Above;</hi> that Fav'rite ROYAL HEAD,</l>
+               <l>Rich with the <hi>Bleſſings</hi> of a <hi>Fruitful BED:</hi>
+               </l>
+               <l>Her Sexes Nobleſt Pride; all ſmiling round,</l>
+               <l>With the whole <hi>Joys</hi> of a Glad MOTHER crown'd.</l>
+               <l>MOTHER, the Name, that ev'n from <hi>Death</hi> can ſave:</l>
+               <l>The <hi>Fertile Womb</hi> ſtops the Devouring Grave.</l>
+               <l>MOTHER; oh Thine is the Great ALL we ſee;</l>
+               <l>Nature's whole Hinge turns here, and the <hi>World</hi> lives by <hi>Thee.</hi>
+               </l>
+               <l>The Great FIRST MOVER's only <hi>Second,</hi> THOU;</l>
+               <l>When his new <hi>World</hi> with <hi>his own IMAGE</hi> bleſt,</l>
+               <pb n="11" facs="tcp:43344:6"/>
+               <l>The Great CREATOR <hi>ſtampt</hi> but the <hi>First Two;</hi>
+               </l>
+               <l>And left it all to <hi>Thee</hi> to <hi>mould</hi> the reſt.</l>
+               <l>WOMAN, where's Thy <hi>Exalted Honour</hi> plac'd?</l>
+               <l>MOTHER, a Name OMNIPOTENCE once Grac'd!</l>
+               <l>Bleſt with this <hi>more</hi> than Title to a <hi>Crown,</hi>
+               </l>
+               <l>
+                  <hi>Britannia</hi>'s Happineſs ſo all her own,</l>
+               <l>Behold her handing <hi>endleſs Bleſſings</hi> down.</l>
+               <l>'Tis leſs to <hi>Fill</hi> than to <hi>Support</hi> a Throne.</l>
+            </lg>
+            <lg>
+               <l>Behold her in her own <hi>Deſpotic Walls,</hi>
+               </l>
+               <l>With Plans of <hi>Empire</hi> laid, in <hi>Wiſdom</hi>'s School</l>
+               <l>So <hi>Learn'd,</hi> ſo <hi>worthy</hi> Crowns, when <hi>Albion</hi> calls;</l>
+               <l>By <hi>Nature</hi> no leſs <hi>Form'd,</hi> than <hi>Born</hi> for Rule.</l>
+               <l>Here to her <hi>Helm</hi> that <hi>ſteering Hand</hi> ſhe brings,</l>
+               <l>Scarce leſs the <hi>Envy</hi> than the <hi>Heir</hi> of Kings:</l>
+               <l>Guides with that Regular <hi>Harmonious Sway;</hi>
+               </l>
+               <l>As Angels ſerve in Heav'n, 'tis Glory to <hi>obey.</hi>
+               </l>
+               <l>She rules a Kingdom in a <hi>Court</hi> alone,</l>
+               <l>And reigns a <hi>Monarch</hi> ev'n <hi>Beneath</hi> a Throne.</l>
+            </lg>
+            <lg>
+               <l>Nor does her <hi>Greatneſs</hi> only bear this Port,</l>
+               <l>Her <hi>Cloſet</hi>'s no leſs Shining, than her <hi>Court.</hi>
+               </l>
+               <l>To her Lov'd <hi>Altars</hi> more <hi>unſbaken Zeal,</hi>
+               </l>
+               <l>Or humbler <hi>Votary</hi> could never Kneel.</l>
+               <l>Yet not that <hi>rapt</hi> Enthuſiaſt, to throw</l>
+               <l>The <hi>deſpis'd</hi> Globe beneath her Feet <hi>too low:</hi>
+               </l>
+               <l>T'her GOD and to Her <hi>Self</hi> the <hi>Right</hi> ſhe gives,</l>
+               <l>Whilſt the <hi>Knee</hi> bends for what the <hi>Brow</hi> receives.</l>
+               <l>No <hi>Royal Hand</hi> e'er held the <hi>Scales</hi> more ev'n,</l>
+               <l>Betwixt the <hi>well-read World</hi> and <hi>ſtudy'd Heav'n.</hi>
+               </l>
+               <pb n="12" facs="tcp:43344:7"/>
+               <l>Of all Her whole <hi>Court-Train,</hi> each <hi>Menial</hi> GRACE;</l>
+               <l>The Faireſt of the Great <hi>Celeſtial Race,</hi>
+               </l>
+               <l>Bright CHARITY, with her extended Hands,</l>
+               <l>(Not only Hers, but Heav'n's beſt <hi>Darling</hi>) ſtands.</l>
+               <l>Well ſhe reflects, as the Great WILL deſign'd</l>
+               <l>The <hi>Princely Heads</hi> the <hi>Lights</hi> to cheer Mankind;</l>
+               <l>The <hi>Godlike</hi> GOOD the <hi>Godlike</hi> GREAT muſt join:</l>
+               <l>For Goodneſs <hi>warms,</hi> where Greatneſs does but <hi>ſhine.</hi>
+               </l>
+               <l>What bending <hi>Knees</hi> can ſuch Bright MERCY want!</l>
+               <l>The <hi>Cloath'd</hi> and <hi>Fed</hi> her <hi>Bounteous Pity</hi> chant.</l>
+               <l>In <hi>Grateful Praiſe</hi> their chearful Numbers move,</l>
+               <l>Meaſures, all tun'd to th' <hi>Endleſs Songs</hi> Above.</l>
+               <l>Off'rings of <hi>Gratitude</hi> in <hi>Heav'n</hi> are made:</l>
+               <l>For <hi>Hallelujahs</hi> are but <hi>Thanks well paid.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But whether ſtooping to Relieve <hi>Diſtreſs,</hi>
+               </l>
+               <l>Or ſhine Rewarded <hi>Virtue</hi>'s <hi>Patroneſs;</hi>
+               </l>
+               <l>She ſhow'rs her <hi>Goodneſs</hi> with no <hi>random</hi> Hand:</l>
+               <l>
+                  <hi>Juſtice</hi> and <hi>Judgment</hi> her <hi>Court-Stewards</hi> ſtand.</l>
+               <l>To lend a <hi>Succo'ring Arm</hi> or <hi>Liſtning Ear,</hi>
+               </l>
+               <l>
+                  <hi>Thinks</hi> where ſhe Favours, where ſhe Smiles ſhe <hi>weighs:</hi>
+               </l>
+               <l>For the Deſcending <hi>Royal Graces</hi> here,</l>
+               <l>'Tis <hi>Merit</hi> muſt the <hi>Jacob</hi>'s <hi>Ladder</hi> raiſe.</l>
+            </lg>
+            <lg>
+               <l>Bleſt with ſuch PARENTAGE, ſuch on each Side,</l>
+               <l>Illuſtrious <hi>GLOC'STER,</hi> thy Deſcending <hi>Pride;</hi>
+               </l>
+               <l>What canſt Thou <hi>promiſe</hi> from this STOCK alone,</l>
+               <l>Thou, to thy <hi>Self;</hi> from <hi>Thee,</hi> th' Expecting <hi>Throne?</hi>
+               </l>
+               <pb n="13" facs="tcp:43344:7"/>
+               <l>Thus challenge all thy Godlike SOURCE can give.</l>
+               <l>From thy Rich <hi>Tagus</hi> the whole <hi>Sands</hi> derive:</l>
+               <l>At once to all the Rougher VIRTUES born</l>
+               <l>That Conquer <hi>Crowns;</hi> and <hi>Gentler,</hi> that Adorn.</l>
+            </lg>
+            <lg>
+               <l>But Thou Great HEIR to ev'ry ſmiling GRACE,</l>
+               <l>Thy <hi>Inborn</hi> GLORIES ſprung from thy Great RACE,</l>
+               <l>Whilſt the all charm'd <hi>Britannia,</hi> to behold</l>
+               <l>Her <hi>growing</hi> HOPE ſtampt in that <hi>Beauteous Mould,</hi>
+               </l>
+               <l>Unwondring ſees the <hi>Royal Roſes</hi> ſpread;</l>
+               <l>All <hi>Genuine</hi> Sweets from ſuch an <hi>Eden</hi> BED;</l>
+               <l>Rapt up ev'n to thy Rivall'd MOTHER's Joy,</l>
+               <l>Views the <hi>Aſcanius</hi> to her happier <hi>Troy:</hi>
+               </l>
+               <l>Yet here, ev'n here, in this <hi>Harmonious Day,</hi>
+               </l>
+               <l>A Watry <hi>Cloud</hi> to this Bright <hi>Sun</hi> muſt riſe;</l>
+               <l>(Can there be <hi>Shades</hi> that can ſuch JOYS allay!)</l>
+               <l>One Tear muſt drop ev'n from <hi>Britannia</hi>'s Eyes!</l>
+               <l>Well ſhe remembers from that <hi>Sacred</hi> ROOT,</l>
+               <l>She ſaw the Lovely <hi>Numerous</hi> CYONS ſhoot.</l>
+               <l>She dares not Murmur at <hi>Decrees Divine;</hi>
+               </l>
+               <l>But give her Leave to Mourn, tho' not Repine.</l>
+               <l>Were thoſe Sweet <hi>Pledges</hi> all but Lent, not Giv'n?</l>
+               <l>What has that <hi>Genial</hi> BED <hi>Deſerv'd</hi> from Heav'n!</l>
+               <l>Could <hi>Providence</hi> here too profuſely pay?</l>
+               <l>Why then ſuch <hi>Charms</hi> ſo <hi>early</hi> ſnatcht away!</l>
+            </lg>
+            <lg>
+               <l>So have I ſeen the <hi>Morning Star</hi> appear;</l>
+               <l>Juſt peeps its <hi>Glorious Head</hi> above our Sphear:</l>
+               <l>Scarce ſeen 'tis gone, <hi>Set</hi> almoſt e'er 't can <hi>Riſe;</hi>
+               </l>
+               <l>Not in the Weſtern but the <hi>Eaſtern Skies:</hi>
+               </l>
+               <pb n="14" facs="tcp:43344:8"/>
+               <l>The vaniſhing ſhort <hi>Brightneſs</hi> from our Sight</l>
+               <l>All <hi>Lost,</hi> and <hi>Swallow'd up</hi> in DAY's Immenſer Light.</l>
+            </lg>
+            <lg>
+               <l>If all the MERITS of that <hi>Bridal Bed,</hi>
+               </l>
+               <l>A <hi>Force</hi> to wreſtle <hi>Heav'n,</hi> in vain could plead:</l>
+               <l>If <hi>Albion</hi>'s Pray'rs; ten thouſand thouſand Knees,</l>
+               <l>Of <hi>Fate</hi> implor'd in vain—If Theſe, all Theſe—</l>
+               <l>Nay not a <hi>Stream</hi> from the Fair ROYAL EYE,</l>
+               <l>That Bribe of <hi>Richer Pearl</hi> could <hi>Mercy</hi> buy.</l>
+               <l>If ſtill <hi>Fate</hi> ſtrikes; and the Remorſeleſs <hi>Dooms,</hi>
+               </l>
+               <l>Have Hearts ſo hard, to cut ſuch <hi>Tender Looms:</hi>
+               </l>
+               <l>Here <hi>Heav'n-born Siſters,</hi> on this <hi>Mournful Theme,</hi>
+               </l>
+               <l>Call your Bright <hi>Patron God</hi>'s Divineſt Beam;</l>
+               <l>T'exhale a Show'r from your <hi>Caſtalian Stream.</hi>
+               </l>
+               <l>Yes; all your melting <hi>Hippocrene</hi>'s too poor,</l>
+               <l>To ſprinkle ev'ry <hi>Roſe,</hi> each Fragrant <hi>Flow'r,</hi>
+               </l>
+               <l>That twines the <hi>Garlands</hi> o'er thoſe <hi>Infant</hi> TOMBS;</l>
+               <l>And with its Pendant Sweets the little <hi>
+                     <g ref="char:V">Ʋ</g>rn</hi> perfumes.</l>
+            </lg>
+            <lg>
+               <l>Then in ſoft Numbers (Numbers beſt Complain!)</l>
+               <l>Tell the Great <hi>Lords</hi> of the <hi>Eternal Reign,</hi>
+               </l>
+               <l>Is Heav'n ſo <hi>poor,</hi> to ſnatch ſuch <hi>Bloom</hi> away;</l>
+               <l>Such <hi>Young Tranſlation</hi> to Immortal Day!</l>
+               <l>Did their Imperfect <hi>Songs</hi> want to inſpire</l>
+               <l>More <hi>Treble Voices</hi> for their <hi>Angel Choir!</hi>
+               </l>
+               <l>Or to adorn the <hi>Galaxy</hi> more bright,</l>
+               <l>Wanted their <hi>Milky Way</hi> new <hi>Spangled Light?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But whether leads this <hi>Melancholy</hi> Way;</l>
+               <l>This Gloomy Scene of <hi>Graves?</hi>—Stay, Wand'rers ſtay.</l>
+               <pb n="15" facs="tcp:43344:8"/>
+               <l>Walk not in <hi>Shades,</hi> when all around ye <hi>Shines:</hi>
+               </l>
+               <l>What, tho' the <hi>Muſes,</hi> at thoſe Sacred SHRINES,</l>
+               <l>In <hi>pious Grief</hi> too much can never pay!</l>
+               <l>Yet <hi>Piety</hi> it ſelf ſometimes may ſtray.</l>
+               <l>Suit theſe <hi>ſad Plaints</hi> with this <hi>Triumphant-Day?</hi>
+               </l>
+               <l>No, cheer'd <hi>Britannia,</hi> let all <hi>Joys</hi> go round;</l>
+               <l>Thy Loftier Ayrs all <hi>Io Paeans</hi> ſound.</l>
+               <l>Tho' thy too <hi>niggard</hi> Stars no kinder ſhine,</l>
+               <l>Here thy <hi>Great</hi> ALL from that Rich <hi>Fruitful</hi> MINE:</l>
+               <l>Boaſt, <hi>Albion,</hi> boaſt thy vaſt Unbounded Store,</l>
+               <l>This JEWEL, tho' the <hi>Carract</hi>'s Thine no more.</l>
+               <l>What tho' thy Hopes move in one <hi>ſingle</hi> SPHERE?</l>
+               <l>Are <hi>Glory, Pow'r, Dominion,</hi> curtail'd here?</l>
+               <l>Stands not thy whole Great <hi>Baſis</hi> ſafe alone</l>
+               <l>In this Young Growing ATLAS of thy <hi>Throne?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What though an angry <hi>Sybil</hi> in one Urn</l>
+               <l>Did all thoſe Great <hi>Orac'lous Volumes</hi> burn!</l>
+               <l>Still <hi>Time</hi>'s long Glaſs (to <hi>Numbers</hi> unconfin'd)</l>
+               <l>Th' <hi>
+                     <g ref="char:V">Ʋ</g>nfolded Deſtinies</hi> ſhe left behind.</l>
+               <l>
+                  <hi>Whole</hi> FATE in her ſurviving Pages ſhin'd.</l>
+            </lg>
+            <lg>
+               <l>So <hi>GLOC'STER,</hi> may the bleſt <hi>Britannia</hi> ſee</l>
+               <l>Her <hi>Hopes,</hi> her <hi>Happineſs,</hi> all ſum'd in THEE.</l>
+               <l>Oh may kind <hi>Heav'n</hi> preſerve that <hi>Darling</hi> HEAD:</l>
+               <l>And whither can't <hi>Diffuſive GLORY</hi> ſpread?</l>
+               <l>One Great <hi>Copernick</hi> CENTER can diſperſe</l>
+               <l>His Circling Beams around the <hi>
+                     <g ref="char:V">Ʋ</g>niverſe.</hi>
+               </l>
+            </lg>
+            <pb n="16" facs="tcp:43344:9"/>
+            <lg>
+               <l>But whilſt of ſuch <hi>Immortal</hi> SEEDS I ſing,</l>
+               <l>The Promis'd <hi>Harvest</hi> from ſo Rich a <hi>Spring;</hi>
+               </l>
+               <l>Oh may my <hi>Muſe,</hi> on that <hi>Illuſtrious Theme,</hi>
+               </l>
+               <l>Chant with the Ancient <hi>Bards</hi> Enlightning <hi>Beam.</hi>
+               </l>
+               <l>
+                  <hi>Poets</hi> of Old with a <hi>Prophetick</hi> Tongue,</l>
+               <l>Not <hi>Past</hi> alone, but <hi>
+                     <g ref="char:V">Ʋ</g>nborn</hi> GLORIES ſung.</l>
+               <l>Their kinder <hi>God</hi> then <hi>Doubly</hi> did Inſpire;</l>
+               <l>Not only tun'd their <hi>Numbers</hi> to his <hi>Lyre;</hi>
+               </l>
+               <l>But warm'd 'em with a Spark from his own <hi>Delphick</hi> Fire.</l>
+            </lg>
+            <lg>
+               <l>Thus may my <hi>Muſe,</hi> Young PRINCE, Thy GROWTH foretel;</l>
+               <l>(Oh Seal it <hi>Heav'n;</hi> here ſtamp the <hi>Oracle!</hi>)</l>
+               <l>May thoſe Bright HEADS, far, far beyond thy own,</l>
+               <l>Thy long Succeſſive <hi>Heirs</hi> to th' <hi>Albion Throne,</hi>
+               </l>
+               <l>From Thee th' unbroken <hi>Line</hi> of HEROES run,</l>
+               <l>'Till the whole Great <hi>Platonick Circle</hi>'s done.</l>
+               <l>Rapt up to this High ORB; vain <hi>Muſe</hi> retire:</l>
+               <l>Farewel to <hi>Numbers,</hi> and thy Humbler <hi>Choir.</hi>
+               </l>
+               <l>Let Great PREDESTINATION tune this SPHERE.</l>
+               <l>I'll quit the <hi>Poet</hi> for the <hi>Prophet</hi> here.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43344:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
